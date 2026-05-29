@@ -1,0 +1,24 @@
+conditional - to implement logic
+loops - used for menu sysytem
+dictionary - to store data
+
+Teacher:
+1- add student
+2- view all students
+3- check result
+4- exit
+
+-----------------------
+Password Manager Program
+Uses:
+1- dictionary
+2- loops
+3- conditional
+4- module: random
+5- file handling
+
+website: password
+
+random module
+file read/write
+real world
