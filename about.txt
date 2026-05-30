@@ -1,3 +1,6 @@
+student result manager
+
+Uses:
 conditional - to implement logic
 loops - used for menu sysytem
 dictionary - to store data
@@ -8,8 +11,10 @@ Teacher:
 3- check result
 4- exit
 
------------------------
+--------------------------
+
 Password Manager Program
+
 Uses:
 1- dictionary
 2- loops
